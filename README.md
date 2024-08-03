@@ -5,7 +5,7 @@
     server.py for Testing
 
 
-                                                                                                    OUTPUT PREVIEW
+
 
 ![Screenshot 2024-04-05 195103](https://github.com/user-attachments/assets/89e27b5f-a9b1-4caf-a399-5554e137501a)
 
