@@ -1,7 +1,8 @@
 *** NOTE ***
 * Upload TRAINING IMMAGES in img folder i.e static/img
 * Commands
-    offline.py for Trainig
+    offline.py for Trainig ,,
+  
     server.py for Testing
 
 
